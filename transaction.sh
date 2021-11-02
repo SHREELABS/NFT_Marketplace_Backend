@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export WEB3_RPC_URL=https://rinkeby.infura.io/v3/eb79ff709b90400197d8d84b2fe1c6c2
+export WEB3_RPC_URL=https://rinkeby.infura.io/v3/64fa77a39b9a4c31b186fb2148edff70
 export WEB3_PRIVATE_KEY=$6
 export WEB3_ADDRESS=$4
 
